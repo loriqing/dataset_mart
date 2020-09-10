@@ -61,3 +61,10 @@ ELSEVIER OA CC-BY CORPUS
 [domain] 2000 documents were sampled from each of the 27 top-level subject
 
 [description] body, abstract, metadata
+
+* CORD-19
+
+CORD-19: The COVID-19 Open Research Dataset
+[paper](https://arxiv.org/pdf/2004.10706.pdf)
+[source](https://www.semanticscholar.org/cord19/download)
+[github](https://github.com/allenai/cord19)
