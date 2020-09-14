@@ -110,7 +110,9 @@ Fine-grained entity recognition
 [github](https://github.com/xiaoling/figer)
 [source](https://drive.google.com/open?id=0B52yRXcdpG6MMnRNV3dTdGdYQ2M)
 
-# 纯关系的数据集
+## 纯关系的数据集
+
 https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets
+
 https://lipn.univ-paris13.fr/~gabor/semeval2018task7/
 
