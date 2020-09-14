@@ -70,6 +70,7 @@ CORD-19: The COVID-19 Open Research Dataset
 [github](https://github.com/allenai/cord19)
 
 * BC5CDR 
+
 BioCreative V CDR task corpus: a resource for chemical disease relation extraction
 [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860626/pdf/baw068.pdf)
 [source](http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/)
@@ -79,6 +80,7 @@ BioCreative V CDR task corpus: a resource for chemical disease relation extracti
 [description]The BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 
 * AnchorNER
+
 Towards Open-Domain Named Entity Recognition via Neural Correction Models
 [paper](https://arxiv.org/pdf/1909.06058.pdf)
 [source](https://drive.google.com/file/d/1Qm3WCWLOPRgTJUuXBKrOLPr20V5yOa5i/view?usp=sharing)
