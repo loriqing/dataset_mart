@@ -89,3 +89,28 @@ Towards Open-Domain Named Entity Recognition via Neural Correction Models
 [domain] open-domain, general
 
 [description]We apply the pipeline described hereafter to a dump of abstracts of English Wikipedia from 2017 and obtain AnchorNER. This dataset is built out of 5.2M abstracts of Wikipedia articles, consisting of 268M tokens accounting for 12M sentences. 
+
+* BBN
+
+Bbn pronoun coreference and entity type corpus
+[source](https://catalog.ldc.upenn.edu/LDC2005T33)
+
+[description] fine-grained entity type
+
+* OntoNotes
+
+OntoNotes: A Large Training Corpus for Enhanced Processing
+[paper](https://www.researchgate.net/publication/230876724_OntoNotes_A_Large_Training_Corpus_for_Enhanced_Processing)
+[source](https://catalog.ldc.upenn.edu/LDC2013T19)
+
+* FIGER
+
+Fine-grained entity recognition
+[paper](http://xiaoling.github.com/pubs/ling-aaai12.pdf)
+[github](https://github.com/xiaoling/figer)
+[source](https://drive.google.com/open?id=0B52yRXcdpG6MMnRNV3dTdGdYQ2M)
+
+# 纯关系的数据集
+https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets
+https://lipn.univ-paris13.fr/~gabor/semeval2018task7/
+
