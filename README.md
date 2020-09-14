@@ -26,9 +26,9 @@ DocRED: A Large-Scale Document-Level Relation Extraction Dataset
 [paper](https://www.aclweb.org/anthology/P19-1074.pdf)
 [source](https://github.com/thunlp/DocRED)
 
-[domain]
+[domain] general
 
-[description]
+[description]DocRED covers a variety of entity types, including person (18.5%), location (30.9%), organization (14.4%), time (15.8%) and number (5.1%). Includes 96 frequent relation types from Wikidata. A notable property of our dataset is that the relation types cover a broad range of categories, including relations relevant to science (33.3%), art (11.5%), time (8.3%), personal life (4.2%), etc.,
 
 * NLPContributionGraph
 
@@ -68,3 +68,22 @@ CORD-19: The COVID-19 Open Research Dataset
 [paper](https://arxiv.org/pdf/2004.10706.pdf)
 [source](https://www.semanticscholar.org/cord19/download)
 [github](https://github.com/allenai/cord19)
+
+* BC5CDR 
+BioCreative V CDR task corpus: a resource for chemical disease relation extraction
+[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4860626/pdf/baw068.pdf)
+[source](http://www.biocreative.org/tasks/biocreative-v/track-3-cdr/)
+
+[domain] disease named entity recognition (DNER) and chemical-induced disease (CID) relation extraction
+
+[description]The BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
+
+* AnchorNER
+Towards Open-Domain Named Entity Recognition via Neural Correction Models
+[paper](https://arxiv.org/pdf/1909.06058.pdf)
+[source](https://drive.google.com/file/d/1Qm3WCWLOPRgTJUuXBKrOLPr20V5yOa5i/view?usp=sharing)
+[github](https://github.com/zmd971202/OpenNER)
+
+[domain] open-domain, general
+
+[description]We apply the pipeline described hereafter to a dump of abstracts of English Wikipedia from 2017 and obtain AnchorNER. This dataset is built out of 5.2M abstracts of Wikipedia articles, consisting of 268M tokens accounting for 12M sentences. 
