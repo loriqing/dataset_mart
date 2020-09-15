@@ -110,6 +110,14 @@ Fine-grained entity recognition
 [github](https://github.com/xiaoling/figer)
 [source](https://drive.google.com/open?id=0B52yRXcdpG6MMnRNV3dTdGdYQ2M)
 
+* KNET
+
+Improving Neural Fine-Grained Entity Typing with Knowledge Attention
+[paper](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/aaai2018_entitytyping.pdf)
+[github](https://github.com/thunlp/KNET)
+
+[description]
+
 * DialogRE
 
 Dialogue-Based Relation Extraction
