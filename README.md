@@ -110,9 +110,44 @@ Fine-grained entity recognition
 [github](https://github.com/xiaoling/figer)
 [source](https://drive.google.com/open?id=0B52yRXcdpG6MMnRNV3dTdGdYQ2M)
 
+* DialogRE
+
+Dialogue-Based Relation Extraction
+[paper](https://arxiv.org/pdf/2004.08056.pdf)
+[github](https://github.com/nlpdata/dialogre)
+[source](https://dataset.org/dialogre/)
+
+[domain] conversational/Friends
+
+[description]keep 2,100 triples in total, whose two arguments are in “no relation”, and we finally have 10,168 triples for 1,788 dialogues. We randomly split them at the dialogue level, with 60% for training, 20% for development, and 20% for testing.Based on the predefined SF and DialogRE relation types, a subject is expected to be an entity of type PER, ORG, or geo-political entity (GPE). Notably, subjects of most relational triples (96.8%vs. 69.7%intheSFdataset)inDialogRE are person names. The coarse-grained object type is entity, string, or value (i.e., a numerical value or a date). 
+相关数据集* DREAM  * C3
+
+* DREAM
+[paper](https://arxiv.org/abs/1902.00164)
+[github](https://github.com/nlpdata/dream)
+[source](https://dataset.org/dream/)
+
+[description]DREAM is a multiple-choice Dialogue-based REAding comprehension exaMination dataset. In contrast to existing reading comprehension datasets, DREAM is the first to focus on in-depth multi-turn multi-party dialogue understanding.
+
+* C3
+[paper](https://arxiv.org/abs/1904.09679v3)
+[github](https://github.com/nlpdata/c3)
+[source](https://dataset.org/c3/)
+
+[description]C3 is the first free-form multiple-Choice Chinese machine reading Comprehension dataset, containing 13,369 documents (dialogues or more formally written mixed-genre texts) and their associated 19,577 multiple-choice free-form questions collected from Chinese-as-a-second language examinations.
+
+* MAVEN (未发布)
+
+MAVEN: A Massive General Domain Event Detection Dataset
+[paper](https://arxiv.org/pdf/2004.13590.pdf)
+[]
+
+
 ## 纯关系的数据集
 
 https://github.com/davidsbatista/Annotated-Semantic-Relationships-Datasets
 
 https://lipn.univ-paris13.fr/~gabor/semeval2018task7/
+
+
 
