@@ -118,6 +118,13 @@ Improving Neural Fine-Grained Entity Typing with Knowledge Attention
 
 [description]
 
+* Open-type
+
+Ultra-Fine Entity Typing
+[paper](https://www.aclweb.org/anthology/P18-1009.pdf)
+[source](https://homes.cs.washington.edu/~eunsol/open_entity.html)
+[github](https://github.com/uwnlp/open_type)
+
 * DialogRE
 
 Dialogue-Based Relation Extraction
