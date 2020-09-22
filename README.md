@@ -157,6 +157,12 @@ MAVEN: A Massive General Domain Event Detection Dataset
 [paper](https://arxiv.org/pdf/2004.13590.pdf)
 []
 
+* cfet 中文细粒度entity typing数据集
+
+A Chinese Corpus for Fine-grained Entity Typing
+[paper](https://arxiv.org/pdf/2004.08825)
+[github](https://github.com/HKUST-KnowComp/cfet)
+[source](https://drive.google.com/file/d/1xorWUdTi9r43tTEdwJ4tKa9ErvRjossU/view?usp=sharing)
 
 ## 纯关系的数据集
 
