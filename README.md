@@ -95,13 +95,16 @@ Towards Open-Domain Named Entity Recognition via Neural Correction Models
 Bbn pronoun coreference and entity type corpus
 [source](https://catalog.ldc.upenn.edu/LDC2005T33)
 
-[description] fine-grained entity type
+[description] fine-grained entity type, annotates 2,311 Wall Street Journal articles in Treebank-2 (LDC95T7) with fine-grained entity types.
 
 * OntoNotes
 
 OntoNotes: A Large Training Corpus for Enhanced Processing
 [paper](https://www.researchgate.net/publication/230876724_OntoNotes_A_Large_Training_Corpus_for_Enhanced_Processing)
 [source](https://catalog.ldc.upenn.edu/LDC2013T19)
+
+[description] 
+OntoNotes corpus using a three-layer set of 87 types
 
 * FIGER
 
@@ -110,6 +113,9 @@ Fine-grained entity recognition
 [github](https://github.com/xiaoling/figer)
 [source](https://drive.google.com/open?id=0B52yRXcdpG6MMnRNV3dTdGdYQ2M)
 
+[description]
+contains 2.7 million automatically labeled training instances from Wikipedia and 434 manually annotated sentences from news reports
+
 * KNET
 
 Improving Neural Fine-Grained Entity Typing with Knowledge Attention
@@ -117,6 +123,7 @@ Improving Neural Fine-Grained Entity Typing with Knowledge Attention
 [github](https://github.com/thunlp/KNET)
 
 [description]
+It consists of an automatically annotated subset (WIKI-AUTO) and a manually annotated (WIKI-MAN) test set.
 
 * Open-type
 
@@ -125,12 +132,19 @@ Ultra-Fine Entity Typing
 [source](https://homes.cs.washington.edu/~eunsol/open_entity.html)
 [github](https://github.com/uwnlp/open_type)
 
-* cfet 中文细粒度entity typing数据集
+* cfet 中文细粒度entity typing数据集 
 
 A Chinese Corpus for Fine-grained Entity Typing
 [paper](https://arxiv.org/pdf/2004.08825)
 [github](https://github.com/HKUST-KnowComp/cfet)
 [source](https://drive.google.com/file/d/1xorWUdTi9r43tTEdwJ4tKa9ErvRjossU/view?usp=sharing)
+
+[description]
+
+6000 examples,each example has 5 labels: 0.9 gen- eral, 0.6 fine-grained, and 3.9 ultra-fine types.
+• 9 general types: person, location, object, orga- nization, place, entity, object, time, event
+• 121 fine-grained types
+• 10,201 ultra-fine types
 
 * DialogRE
 
