@@ -132,6 +132,13 @@ Ultra-Fine Entity Typing
 [source](https://homes.cs.washington.edu/~eunsol/open_entity.html)
 [github](https://github.com/uwnlp/open_type)
 
+[description]
+To capture multiple domains, we sample sentences from **Gigaword (Parker et al., 2011), OntoNotes (Hovy et al., 2006), and web articles (Singh et al., 2012)**. We select entity mentions by taking maximal noun phrases from a constituency parser (Manning et al., 2014) and mentions from a coreference resolution system (Lee et al., 2017). 
+6000 examples,each example has 5 labels: 0.9 general, 0.6 fine-grained, and 3.9 ultra-fine types.
+• 9 general types: person, location, object, organization, place, entity, object, time, event
+• 121 fine-grained types
+• 10,201 ultra-fine types
+
 * cfet 中文细粒度entity typing数据集 
 
 A Chinese Corpus for Fine-grained Entity Typing
@@ -140,11 +147,7 @@ A Chinese Corpus for Fine-grained Entity Typing
 [source](https://drive.google.com/file/d/1xorWUdTi9r43tTEdwJ4tKa9ErvRjossU/view?usp=sharing)
 
 [description]
-
-6000 examples,each example has 5 labels: 0.9 gen- eral, 0.6 fine-grained, and 3.9 ultra-fine types.
-• 9 general types: person, location, object, orga- nization, place, entity, object, time, event
-• 121 fine-grained types
-• 10,201 ultra-fine types
+We gather our entity mentions from **four different sources: Golden Horse (He and Sun, 2016), Boson dataset provided by BosonNLP1, MSRA’s open source NER dataset2, and PKU’s Corpus of Multi-level Processing for Modern Chinese (Yu et al., 2018)**. MSRA and PKU’s dataset, the sentences are mostly extracted from **news or magazines**, and thus are more formal and detailed. For the Golden Horse dataset, most of them are extracted from **Weibo** (a Chinese social media website similar to Twitter) posts, which are far more informal. We extract mentions from these sources and amass around **4,800 entity mentions with context sentences. 80% of the mentions are named entities** (e.g.香港/Hong Kong, 苹果公司/Apple Inc., 勒布朗-詹姆 斯/LeBron James) and **20% of them are pronouns**.
 
 * DialogRE
 
