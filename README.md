@@ -79,7 +79,7 @@ BioCreative V CDR task corpus: a resource for chemical disease relation extracti
 
 [description]The BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 
-# [workshop](https://sdproc.org/2021/sharedtasks.html)
+[workshop](https://sdproc.org/2021/sharedtasks.html)
 * 3C - Citation Context Classification
 Subtask A: A task for identifying the purpose of a citation. Multiclass classification of citations into one of six classes: Background, Uses, Compare_Contrast, Motivation, Extension, and Future. [kaggle2020](https://www.kaggle.com/c/3c-shared-task-purpose)
 Subtask B: A task for identifying the importance of a citation. Binary classification of citations into one of two classes: Incidental, and Influential.[kaggle2020](https://www.kaggle.com/c/3c-shared-task-influence)
