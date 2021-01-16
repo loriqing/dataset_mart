@@ -79,6 +79,21 @@ BioCreative V CDR task corpus: a resource for chemical disease relation extracti
 
 [description]The BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 
+# [workshop](https://sdproc.org/2021/sharedtasks.html)
+* 3C - Citation Context Classification
+Subtask A: A task for identifying the purpose of a citation. Multiclass classification of citations into one of six classes: Background, Uses, Compare_Contrast, Motivation, Extension, and Future. [kaggle2020](https://www.kaggle.com/c/3c-shared-task-purpose)
+Subtask B: A task for identifying the importance of a citation. Binary classification of citations into one of two classes: Incidental, and Influential.[kaggle2020](https://www.kaggle.com/c/3c-shared-task-influence)
+
+* LongSumm - Long Summaries for Scientific Documents
+focuses on generating long summaries for scientific documents.
+[source](https://github.com/guyfe/LongSumm/blob/master/abstractive_summaries/by_clusters/0_100/1602.05568.json)
+[AILeaderboard](https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39)
+
+* SCIVER - Verifying Scientific Claims with Evidence
+[github](https://github.com/allenai/scifact)
+[source](https://github.com/allenai/scifact#dataset)
+
+--- 
 * AnchorNER
 
 Towards Open-Domain Named Entity Recognition via Neural Correction Models
@@ -180,6 +195,7 @@ Dialogue-Based Relation Extraction
 MAVEN: A Massive General Domain Event Detection Dataset
 [paper](https://arxiv.org/pdf/2004.13590.pdf)
 []
+
 
 
 ## 纯关系的数据集
