@@ -93,6 +93,11 @@ focuses on generating long summaries for scientific documents.
 [github](https://github.com/allenai/scifact)
 [source](https://github.com/allenai/scifact#dataset)
 
+* TDMS -A Specialized Corpus for Scientific Literature Entity Tagging of Tasks Datasets and Metrics
+annotations for Task (T), Dataset (D), Metric (M) entities on 2,000 sentences extracted from NLP papers. Identification of Tasks, Datasets, Evaluation Metrics, and Numeric Scores for Scientific Leaderboards Construction with 400
+[paper](https://arxiv.org/pdf/2101.10273.pdf#page=6&zoom=100,89,957)
+[github](https://github.com/IBM/science-result-extractor)
+
 --- 
 * AnchorNER
 
