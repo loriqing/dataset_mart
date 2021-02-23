@@ -1,5 +1,11 @@
 # dataset_mart
 
+* SLAKE
+SLAKE: A SEMANTICALLY-LABELED KNOWLEDGE-ENHANCED DATASET FOR MEDICAL VISUAL QUESTION ANSWERING
+[description] A large bilingual dataset, SLAKE, with comprehensive semantic labels annotated by experienced physicians and a new structural medical knowledge base for Med-VQA. Besides, SLAKE includes richer modalities and covers more human body parts than the currently available dataset.
+[paper](https://arxiv.org/pdf/2102.09542.pdf)
+[source](https://www.med-vqa.com/slake/)
+
 * SCIREX 438
 
 SCIREX: A Challenge Dataset for Document-Level Information Extraction 
