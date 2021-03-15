@@ -1,4 +1,15 @@
 # dataset_mart
+* SciFact
+Fact or Fiction: Verifying Scientific Claims
+[description] SciFact, a dataset of 1.4K expert-written scientific claims paired with evidence-containing abstracts annotated with labels and rationales. 
+[paper](https://arxiv.org/abs/2004.14974)
+[source](https://github.com/allenai/scifact)
+
+* health fact checking
+Explainable Automated Fact-Checking for Public Health Claims
+[description]PUBHEALTH of 11.8K claims accompanied by journalist crafted, gold standard explanations (i.e., judgments) to support the fact-check labels for claims1. Explore two tasks: veracity prediction and explanation generation.
+[paper](https://www.aclweb.org/anthology/2020.emnlp-main.623)
+[source](https://github.com/neemakot/Health-Fact-Checking)
 
 * SLAKE
 SLAKE: A SEMANTICALLY-LABELED KNOWLEDGE-ENHANCED DATASET FOR MEDICAL VISUAL QUESTION ANSWERING
